@@ -7,11 +7,14 @@
         <mxCell id="aU1Ami0jZrS-53YXBLF1-1" value="客户端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aU1Ami0jZrS-53YXBLF1-2" value="客户端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="585" y="230" width="120" height="60" as="geometry" />
+        <mxCell id="aU1Ami0jZrS-53YXBLF1-2" value="攻击者" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aU1Ami0jZrS-53YXBLF1-3" value="客户端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="aU1Ami0jZrS-53YXBLF1-3" value="合法服务器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="860" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aU1Ami0jZrS-53YXBLF1-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="395" y="290" width="50" height="460" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
